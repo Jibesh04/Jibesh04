@@ -6,7 +6,7 @@
 
 
 ### Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJibesh04&label=Explorers&labelColor=%2308c4d0&countColor=%2335ff1f&style=plastic) 
-[![Cover](./Gifs/JUNIOR%20J.png)](https://github.com/Jibesh04?)    
+[![Cover](./Gifs/Photo.png)](https://github.com/Jibesh04?)    
 
 
 
@@ -42,6 +42,28 @@
 **📚 Others**  &nbsp; 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<br/>
+
+## ⚙️ Non-technical
+**✍🏼 Graphic Design**  &nbsp; 
+![Illustrator](	https://aleen42.github.io/badges/src/illustrator.svg)
+![Canva](https://img.shields.io/badge/Canva-BB2FBB?style=for-the-badge&logo=canva&logoColor=white)
+
+
+**📚 Content Writing**  &nbsp; 
+![Latex](https://img.shields.io/badge/Latex-BB6I4A?style=for-the-badge&logo=latex&logoColor=white)
+
+<br/>
+
+## ⚙️ OS
+**✍🏼 PC**  &nbsp; 
+![Windows](	https://img.shields.io/badge/Windows7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](	https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**📚 SmartPhone**  &nbsp; 
+![Markdown](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br/>
 
 <!-- ## 📦 NPM Packages Published by Me
 [![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
@@ -68,6 +90,9 @@
 <a href="https://www.instagram.com/edu.with.j">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@edu.with.j&color=7E3ACE&style=for-the-badge&logo=instagram&logoColor=whitesmoke" />
 </a>
+<a href="https://twitter.com/Junior_J18">
+    <img alt="link to my Twitter" src="https://img.shields.io/static/v1?label&message=@edu.with.j&color=1B92E2&style=for-the-badge&logo=twitter&logoColor=whitesmoke" />
+</a>
 <a href="coder.jp333@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=coder.jp333@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" />
 </a>
@@ -90,13 +115,13 @@
 
 <details>
   <summary>General Stats</summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibesh04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src=	https://github-readme-stats.vercel.app/api?username=Jibesh04&theme=blue-green />
 </details>
 
 <details>
     <summary>Top Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibesh04&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src=	https://github-readme-stats.vercel.app/api/top-langs/?username=Jibesh04&theme=blue-green />
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
