@@ -1,6 +1,6 @@
 
 <div id="top"></div>
- <img src="./Gifs/Lou Lignon GIF - Lou Lignon Cynthia - Discover & Share GIFs.gif" width="250px">
+<div align="center"><img src="./Gifs/Lou Lignon GIF - Lou Lignon Cynthia - Discover & Share GIFs.gif" width="250px"></div>
 <br>
 <h1>Hi there
 
