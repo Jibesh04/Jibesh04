@@ -93,7 +93,7 @@
 <a href="https://twitter.com/Junior_J18">
     <img alt="link to my Twitter" src="https://img.shields.io/static/v1?label&message=@edu.with.j&color=1B92E2&style=for-the-badge&logo=twitter&logoColor=whitesmoke" />
 </a>
-<a href="coder.jp333@gmail.com">
+<a href="mailto: coder.jp333@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=coder.jp333@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" />
 </a>
 </div>
