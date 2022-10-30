@@ -1,16 +1,18 @@
 
 <div id="top"></div>
-<div align="center"><img src="./Gifs/Lou Lignon GIF - Lou Lignon Cynthia - Discover & Share GIFs.gif" width="250px"></div>
+<div align="center"><img src="./Gifs/giphy%20(1).gif"></div>
 <br>
-<h1>Hi there
+<h1>Namaskaram 🙏</h1>
 
 
-### Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJibesh04&label=Explorers&labelColor=%2308c4d0&countColor=%2335ff1f&style=plastic) 
+### Glad to see you here! &nbsp;
+<div>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJibesh04&label=Explorer&labelColor=%2308c4d0&countColor=%2335ff1f&style=plastic">
+</div>
+<br>
+
 [![Cover](./Gifs/Photo.png)](https://github.com/Jibesh04?)    
-
-
-
-<br />
+<br/>
  
 ### <div align="center"> I'm Jibesh Kumar Panda. I'm a CSE Undergrad  🚀</div>
 <div align="center">❤️ I love Exploring new ways to turn the technical knowledge into creativity.
@@ -19,7 +21,7 @@
 <br/>
 </div>
 
-## ⚙️ Development
+<!-- ## ⚙️ Development
 **✍🏼 Web Development**  &nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +29,7 @@
 **📚 Framework**  &nbsp; 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
-**🔨 Build Tool** &nbsp; 
+<!-- **🔨 Build Tool** &nbsp; 
 ![Git](https://img.shields.io/badge/git-%26A52A2A.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -63,7 +65,7 @@
 **📚 SmartPhone**  &nbsp; 
 ![Markdown](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<br/>
+<br/> --> 
 
 <!-- ## 📦 NPM Packages Published by Me
 [![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
@@ -72,6 +74,91 @@
 <!-- ## My Coding Challenge Rank
 [![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https://www.codechef.com/users/junior_18&logo=codechef&logoColor=yellow)](https://www.codechef.com/users/junior_18)-->
 
+
+## 💻 What I talk about!
+<div align="center">
+<img src="./Gifs/giphy.gif" style="max-height: 200px">
+</div>
+<div style = "display: flex; flex-direction: column">
+    <div align = "center">
+        <h2>⁂ Web Development</h2>
+        <h3 align = "center">Fundamentals</h3>
+        <div align = "center">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </div>
+        <h3 align = "center">Enhancers</h3>
+        <div align = "center">
+        <img alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        <img alt="EXPESSJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+        </div>
+        <h3 align = "center">Test Environments</h3>
+        <div align = "center">
+        <img alt="CHROME" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+        <img alt="BRAVE" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
+        <img alt="FIREFOX" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+        </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ Programming</h3>
+        <div align = "center">
+        <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ Terminals</h3>
+        <div align = "center">
+        <img alt="POWERSHELL" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+        <img alt="WINDOWS TERMINAL" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+        </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ Graphic Design</h3>
+            <div align = "center">
+            <img alt="ILLUSTRATOR" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+            <img alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+            <img alt="LIGHTROOM" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+            <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+            </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ MS Essentials</h3>
+            <div align = "center">
+            <img alt="MS POWERPOINT" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+            <img alt="MS EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+            <img alt="MS WORD" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+            </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ Prototyping Platform</h3>
+            <div align = "center">
+            <img alt="ARDUINO" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+            </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ IDEs</h3>
+            <div align = "center">
+            <img alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+            <img alt="COLAB" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+            <img alt="ARDUINO" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+            <img alt="VS CODE" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+            <img alt="CODESANDBOX" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">
+            </div>
+    </div>
+    <div align = "center">
+        <h3>⁑ Workspace Specs</h3>
+            <div align = "center">
+            <img alt="NVIDIA RTX" src="https://img.shields.io/badge/NVIDIA-RTX3050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+            <img alt="AMD Ryzen" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+            </div>
+    </div align = "center">
+</div>
+<br>
 
 ## 📞 Connect with me 
 <div align="center">  
@@ -115,7 +202,7 @@
 
 <details>
   <summary>General Stats</summary>
-  <img height="180em" src=	https://github-readme-stats.vercel.app/api?username=Jibesh04&theme=blue-green />
+  <img height="180em" src=	"https://github-readme-stats.vercel.app/api?username=Jibesh04&theme=blue-green" />
 </details>
 
 <details>
