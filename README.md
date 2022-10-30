@@ -77,7 +77,7 @@
 
 ## 💻 What I talk about!
 <div align="center">
-<img src="./Gifs/giphy.gif" style="max-height: 200px">
+<img src="./Gifs/giphy (2).gif" style="max-height: 200px">
 </div>
 <div style = "display: flex; flex-direction: column">
     <div align = "center">
