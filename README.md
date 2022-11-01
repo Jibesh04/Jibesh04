@@ -1,7 +1,7 @@
 
 <div id="top"></div>
-<div align="center"><img src="./Gifs/giphy%20(1).gif"></div>
-<br>
+<!-- <div align="center"><img src="./Gifs/giphy%20(1).gif"></div> -->
+<!-- <br> -->
 <h1>Namaskaram 🙏</h1>
 
 
