@@ -208,7 +208,7 @@
 <details>
     <summary>Top Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src=	https://github-readme-stats.vercel.app/api/top-langs/?username=Jibesh04&theme=blue-green />
+        <img height=180em src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jibesh04&theme=blue-green"/>
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
